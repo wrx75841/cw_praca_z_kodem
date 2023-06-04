@@ -40,6 +40,13 @@ Requirement already satisfied: blinker>=1.6.2 in d:\lab_2\lista_2\cw_praca_z_kod
 Requirement already satisfied: colorama in d:\lab_2\lista_2\cw_praca_z_kodem\.venv\lib\site-packages (from click>=8.1.3->Flask==2.3.2->-r requirements.txt (line 1)) (0.4.6)
 Requirement already satisfied: MarkupSafe>=2.0 in d:\lab_2\lista_2\cw_praca_z_kodem\.venv\lib\site-packages (from Jinja2>=3.1.2->Flask==2.3.2->-r requirements.txt (line 1)) (2.1.3)
 pylint app.py
+
+
+
+
+
+
+
 ************* Module app
 app.py:1:0: C0114: Missing module docstring (missing-module-docstring)
 app.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
