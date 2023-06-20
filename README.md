@@ -1,3 +1,14 @@
+# Opisz czym jest CI/CD.
+CI/CD, czyli Continuous Integration i Continuous Delivery, to praktyki w tworzeniu oprogramowania mające na celu szybkie i efektywne wdrożenie zmian kodu. Continuous Integration (CI) polega na częstym integrowaniu i automatycznym testowaniu zmian kodu. Continuous Delivery (CD) to automatyczne, gotowe do wdrożenia dostarczanie tych zmian do środowiska produkcyjnego.
+
+
+
+# Opisz czym jest i do czego wykorzystuje się Dockera, jak wygląda składnia i pliki konfigurujące obraz dockerowy.
+
+Docker to platforma do automatyzacji wdrażania, skalowania i izolacji aplikacji w kontenerach. Kontenery Dockerowe, oparte na obrazach utworzonych za pomocą plików Dockerfile, pakują aplikację wraz z jej zależnościami, co umożliwia uruchamianie jej w dowolnym środowisku Linuxa. Składnia Dockerfile definiuje zestaw kroków, które Docker wykonuje, aby zbudować obraz, obejmując deklaracje takie jak FROM do określenia obrazu bazowego, RUN do wykonania poleceń i CMD do określenia domyślnego polecenia uruchamianego przy starcie kontenera.
+
+
+
 # cw_praca_z_kodem
 
 
